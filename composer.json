@@ -1,0 +1,14 @@
+{
+    "name": "adro/ellibreronegro.com",
+    "description": "Sitio Oficial de El Librero Negro",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adro Rocker",
+            "email": "me@adro.rocks"
+        }
+    ],
+    "require": {
+        "tightenco/jigsaw": "^1.3"
+    }
+}
